@@ -1,4 +1,4 @@
-# MY-LIBRARY-APP
+# MY-BRARY-APP
 
 ## Introduction
 MY-BRARY-APP is a Node.js Express application for managing a Book library.
