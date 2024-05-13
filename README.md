@@ -7,6 +7,7 @@ MY-BRARY-APP is a Node.js Express application for managing a Book library.
 Before running the application, make sure you have the following installed:
 - Node.js (version 12 or higher)
 - npm (Node Package Manager)
+- MongoDB (Mongoose)
 -json
 
 ## Installation
